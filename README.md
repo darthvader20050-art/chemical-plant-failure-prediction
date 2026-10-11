@@ -81,11 +81,4 @@ chemical_plant_failure_prediction_pro/
 └── README.md
 ```
 
-## Resume bullets (use only after running and verifying)
-**Chemical Plant Equipment Failure Prediction | Python, Scikit-learn, FastAPI**
-- Built a predictive-maintenance prototype comparing Logistic Regression and Random Forest using stratified 5-fold cross-validation.
-- Evaluated classification performance with precision, recall, F1-score, ROC-AUC and confusion matrix; exported feature importance.
-- Exposed model inference through FastAPI with input validation and automated tests; prototyped on synthetic equipment data.
 
-## Next step for a stronger portfolio
-Replace the synthetic dataset with a properly documented public predictive-maintenance dataset, retrain the model, and report results honestly. For industrial use, domain review, calibration, drift monitoring, and safety validation would be required.
